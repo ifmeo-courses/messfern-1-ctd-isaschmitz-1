@@ -1,0 +1,9 @@
+matplotlib
+numpy
+xarray
+gsw
+seasenselib
+pytest
+ipykernel
+nbformat
+nbconvert
